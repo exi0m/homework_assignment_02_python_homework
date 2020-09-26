@@ -1,2 +1,2 @@
-# homework_assignment_02_python_homework
-Berkeley FinTech Bootcamp - September 26th Homework - Python
+# Berkeley FinTech Bootcamp - September 26th Homework - Python
+## PyBank & PyRamen
